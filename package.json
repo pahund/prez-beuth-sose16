@@ -1,7 +1,7 @@
 {
-  "name": "reveal.js",
+  "name": "prez-beuth-sose16",
   "version": "3.3.0",
-  "description": "The HTML Presentation Framework",
+  "description": "Präsentation Beuth Hochschule für Technik Berlin, Sommersemester 2016",
   "homepage": "http://lab.hakim.se/reveal-js",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
@@ -10,13 +10,13 @@
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Patrick Hund",
+    "email": "pahund@team.mobile.de",
+    "web": "http://technology.ebay.de/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@github.com:pahund/prez-beuth-sose16.git"
   },
   "engines": {
     "node": "~4.1.1"
